@@ -1,4 +1,4 @@
-#tenga en cuenta que este codigo no valida los datos ingresados
+#tenga en cuenta que este codigo NO valida los datos ingresados
 
 Enunciado:
 
