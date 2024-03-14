@@ -1,4 +1,5 @@
 #tenga en cuenta que este codigo no valida los datos ingresados
+
 Enunciado:
 
 Una empresa contrata empleados con las siguientes condiciones y beneficios:
