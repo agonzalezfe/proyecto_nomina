@@ -68,3 +68,4 @@ for (let i = 1; i <= n_empleados; i++)
 }
 console.info(empleados[0])
 
+
